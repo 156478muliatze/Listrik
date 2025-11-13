@@ -1,0 +1,5 @@
+{
+  "name": "Aplikasi Laporan Listrik Kost",
+  "description": "Aplikasi web untuk mengelola dan membuat laporan penggunaan listrik bulanan untuk rumah kost, dengan tarif per kWh yang dapat disesuaikan.",
+  "requestFramePermissions": []
+}
